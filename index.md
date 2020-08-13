@@ -32,7 +32,7 @@ If you encounter any technical problems or just have a question about TDEE Track
 
 # TDEE Tracker - RU
 
-## Privacy Policy
+## Политика конфиденциальности
 
 **Хвалько Андрей** создал **TDEE Tracker** как **бесплатное** приложение. Этот сервис предоставлен **Хвалько Андреем** бесплатно и предусмотрен для использования как есть.
 
