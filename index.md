@@ -27,7 +27,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 ## Support Information
 
-If you encounter any technical problems or just have a question about TDEE Tracker (or it's Privacy Policy), do not hesitate to contact me at **leo.flextor@gmail.com**.
+If you encounter any technical problems or just have a question about TDEE Tracker (or it's Privacy Policy), do not hesitate to contact me at **tdee.tracker@gmail.com**.
 
 
 # TDEE Tracker - RU
@@ -58,4 +58,4 @@ If you encounter any technical problems or just have a question about TDEE Track
 
 ## Информация о поддержке
 
-Если у вас возникнут какие-либо технические проблемы или вопросы о TDEE Tracker (или его Политике конфиденциальности), пожалуйста, обращайтесь ко мне по следующему адресу: **leo.flextor@gmail.com**
+Если у вас возникнут какие-либо технические проблемы или вопросы о TDEE Tracker (или его Политике конфиденциальности), пожалуйста, обращайтесь ко мне по следующему адресу: **tdee.tracker@gmail.com**
